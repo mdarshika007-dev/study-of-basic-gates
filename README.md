@@ -80,9 +80,11 @@ endmodule
 ~~~
 
 **Logic symbol & Truthtable:**
+
 ![logic gates   Truth tables](https://github.com/user-attachments/assets/b3c2ec06-24eb-4fbc-bff0-652c49d39350)
 
 **RTL realization Output:**
+
 ![WhatsApp Image 2025-11-12 at 5 54 24 PM](https://github.com/user-attachments/assets/f42354dc-78a1-4ceb-9af0-188ad9baef21)
 
 
