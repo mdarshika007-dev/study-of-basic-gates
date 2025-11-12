@@ -76,7 +76,7 @@ nand g4(c4,a,b);
 nor g5(c5,a,b);
 xor g6(c6,a,b);
 xnor g7(c7,a,b);
-endmodule  
+endmodule
 
 **Logic symbol & Truthtable:**
 ![logic gates   Truth tables](https://github.com/user-attachments/assets/b3c2ec06-24eb-4fbc-bff0-652c49d39350)
